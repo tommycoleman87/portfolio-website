@@ -1558,6 +1558,8 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+			max-height: 120px;
+			max-width: 120px;
 		}
 
 		.image.featured {
